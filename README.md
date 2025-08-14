@@ -1,6 +1,7 @@
 # 🧠 Machine Learning Lab
 
-Welcome to my **Machine Learning Lab** repository! This repo contains all my lab codes, notebooks, datasets, and results created while learning and practicing various **Machine Learning algorithms**.
+Welcome to my **Machine Learning Lab** repository!  
+This repo contains my lab codes, notebooks, datasets, and results created while learning and practicing various **Machine Learning algorithms**.
 
 ---
 
@@ -33,8 +34,8 @@ Python 3.x • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • 
 ## 🚀 How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/username/Machine-Learning-Lab.git
-cd Machine-Learning-Lab
+git clone https://github.com/ZENINxOMEGA/MachineLearningLab.git
+cd MachineLearningLab
 
 # Create and activate a virtual environment (recommended)
 python -m venv venv
